@@ -14,6 +14,7 @@ enum FileType
 	JSON;
 	IMAGE;
 	SOUND;
+	MUSIC;
 	FONT(type:FontType);
 }
 
